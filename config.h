@@ -8,7 +8,7 @@ using namespace std;
 /* 1. 웹후크 URL
  * 두 쌍따옴표 사이에 원하는 웹후크 URL을 넣어주세요.
  */
-const string url = "https://discord.com/api/webhooks/931477774395383828/KIUORY9x1IiS_VK2evFj2WYgqlWjmf6Eh0QkZirY6IU6c9YS-7MNawNEB2M3ZFnznDU_";
+const string url = "+";
 
 /* 2. JSON 데이터
  * 웹후크로 보낼 JSON 데이터를 Escape 해서 넣어주세요.
